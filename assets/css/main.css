@@ -80,6 +80,10 @@ input, select, textarea {
 	appearance: none;
 }
 
+.top_1 {
+	line-height: 0.7
+}
+
 /* Basic */
 
 	@-ms-viewport {
